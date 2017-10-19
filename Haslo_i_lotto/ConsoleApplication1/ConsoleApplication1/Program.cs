@@ -55,6 +55,7 @@ namespace ConsoleApplication1
                 {
                     kule[j] = kule[j + 1];
                 }
+                liczbaKul--;
             }
 
             Console.WriteLine("Wylosowane liczby to:");
