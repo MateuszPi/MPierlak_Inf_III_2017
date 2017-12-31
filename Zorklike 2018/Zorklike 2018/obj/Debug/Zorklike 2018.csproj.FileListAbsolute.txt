@@ -1,0 +1,6 @@
+G:\Zorklike 2018\Zorklike 2018\Zorklike 2018\bin\Debug\Zorklike2018.exe
+G:\Zorklike 2018\Zorklike 2018\Zorklike 2018\bin\Debug\Zorklike2018.pdb
+G:\Zorklike 2018\Zorklike 2018\Zorklike 2018\obj\Debug\Zorklike 2018.csprojResolveAssemblyReference.cache
+G:\Zorklike 2018\Zorklike 2018\Zorklike 2018\obj\Debug\Zorklike 2018.csproj.CoreCompileInputs.cache
+G:\Zorklike 2018\Zorklike 2018\Zorklike 2018\obj\Debug\Zorklike2018.exe
+G:\Zorklike 2018\Zorklike 2018\Zorklike 2018\obj\Debug\Zorklike2018.pdb

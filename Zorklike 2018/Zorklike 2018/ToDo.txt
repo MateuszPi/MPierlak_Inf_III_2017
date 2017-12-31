@@ -1,0 +1,16 @@
+klasa Hero:
+    exp na poziom,
+    ekwipunek
+    
+klasa Bow, Arrow,
+
+klasa Battle
+
+klasa Enemy, klasa Minion, klasa Boss
+
+klasa Map
+
+klasa LootDrop
+
+
+    
